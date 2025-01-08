@@ -16,3 +16,4 @@ Exemplo de Execução:
 python main.py
 
 ps: não consigui acessar meu github principal, então usei este reserva.
+ps2: ja adicionei algums produtos apenas para exemplos.
