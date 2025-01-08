@@ -1,4 +1,3 @@
-
 Sistema de Gestão de Produtos
 
 apresento meu projeto livre de OO em Python para gerenciar produtos em um estoque.
@@ -15,3 +14,5 @@ Funcionalidades:
 Exemplo de Execução:
 
 python main.py
+
+ps: não consigui acessar meu github principal, então usei este reserva.
